@@ -1,1 +1,1 @@
-my first readme
+updating my README.md for alx assignment 
